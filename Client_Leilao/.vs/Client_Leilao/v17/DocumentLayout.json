@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\moduloleilao\\telaleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\moduloleilao\\telaleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\moduloleilao\\chatleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\moduloleilao\\chatleilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\models\\leilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\models\\leilao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\models\\dadosrecebidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\models\\dadosrecebidos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\client_leilao\\client_leilao.winapp\\models\\chatmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00BBA184-B8A8-4757-961C-3FFCD5569AA2}|Client_Leilao.WinApp\\Client_Leilao.WinApp.csproj|solutionrelative:client_leilao.winapp\\models\\chatmsg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\TelaPrincipal.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\TelaPrincipal.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\TelaPrincipal.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\TelaPrincipal.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAuwPQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:37:28.254Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaLeilao.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\ModuloLeilao\\TelaLeilao.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\ModuloLeilao\\TelaLeilao.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\ModuloLeilao\\TelaLeilao.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\ModuloLeilao\\TelaLeilao.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAqwK0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:41:43.826Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatLeilao.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\ModuloLeilao\\ChatLeilao.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\ModuloLeilao\\ChatLeilao.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\ModuloLeilao\\ChatLeilao.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\ModuloLeilao\\ChatLeilao.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T04:40:44.758Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Produto.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:53.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Leilao.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Leilao.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\Models\\Leilao.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Leilao.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\Models\\Leilao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DadosRecebidos.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\DadosRecebidos.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\Models\\DadosRecebidos.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\DadosRecebidos.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\Models\\DadosRecebidos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\Cliente.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:35.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatMsg.cs",
+              "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\ChatMsg.cs",
+              "RelativeDocumentMoniker": "Client_Leilao.WinApp\\Models\\ChatMsg.cs",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Client_Leilao\\Client_Leilao.WinApp\\Models\\ChatMsg.cs",
+              "RelativeToolTip": "Client_Leilao.WinApp\\Models\\ChatMsg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T11:57:34.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
