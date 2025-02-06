@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|solutionrelative:server_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\server_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|solutionrelative:server_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\server_leilao\\server_leilao.winapp\\modulocliente\\comunicacaocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|solutionrelative:server_leilao.winapp\\modulocliente\\comunicacaocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|c:\\users\\ruan.souza\\documents\\meus_programas\\leilao_criptografado\\server_leilao\\server_leilao.winapp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|solutionrelative:server_leilao.winapp\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\server_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{044BF8C9-EB90-414B-8FEE-363186E944B6}|Server_Leilao.WinApp\\Server_Leilao.WinApp.csproj|solutionrelative:server_leilao.winapp\\telaprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,16 +42,17 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ComunicacaoCliente.cs",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\ModuloCliente\\ComunicacaoCliente.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\ModuloCliente\\ComunicacaoCliente.cs",
               "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\ModuloCliente\\ComunicacaoCliente.cs",
               "RelativeToolTip": "Server_Leilao.WinApp\\ModuloCliente\\ComunicacaoCliente.cs",
-              "ViewState": "AgIAAKkAAAAAAAAAAAAiwMoAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAuwJkAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-11T15:23:24.804Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -61,7 +62,7 @@
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\TelaPrincipal.cs",
               "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\TelaPrincipal.cs",
               "RelativeToolTip": "Server_Leilao.WinApp\\TelaPrincipal.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCgAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCEAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-24T20:50:45.133Z",
               "IsPinned": true,
@@ -69,13 +70,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ComunicacaoLeila.cs",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
               "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
               "RelativeToolTip": "Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-28T20:37:36.881Z",
               "IsPinned": true,
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ComunicacaoLeila.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\ModuloEnvioLeilao\\ComunicacaoLeila.cs",
@@ -114,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "DadosLeilao.cs",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\Models\\DadosLeilao.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\Models\\DadosLeilao.cs",
@@ -126,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\Models\\Produto.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\Models\\Produto.cs",
@@ -138,14 +139,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "TelaPrincipal.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\TelaPrincipal.cs",
               "RelativeDocumentMoniker": "Server_Leilao.WinApp\\TelaPrincipal.cs",
-              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Trabalho_Seg.Compt\\Server_Leilao\\Server_Leilao.WinApp\\TelaPrincipal.cs [Design]",
-              "RelativeToolTip": "..\\..\\Trabalho_Seg.Compt\\Server_Leilao\\Server_Leilao.WinApp\\TelaPrincipal.cs [Design]",
+              "ToolTip": "C:\\Users\\ruan.souza\\Documents\\Meus_Programas\\Leilao_Criptografado\\Server_Leilao\\Server_Leilao.WinApp\\TelaPrincipal.cs [Design]",
+              "RelativeToolTip": "Server_Leilao.WinApp\\TelaPrincipal.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-09T00:50:39.025Z"
+              "WhenOpened": "2024-11-09T00:50:39.025Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

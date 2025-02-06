@@ -34,3 +34,4 @@ C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\
 C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\Client_Leilao.WinApp\obj\Debug\net8.0-windows\Client_Leilao.WinApp.pdb
 C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\Client_Leilao.WinApp\obj\Debug\net8.0-windows\Client_Leilao.WinApp.genruntimeconfig.cache
 C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\Client_Leilao.WinApp\obj\Debug\net8.0-windows\ref\Client_Leilao.WinApp.dll
+C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\Client_Leilao.WinApp\obj\Debug\net8.0-windows\Client_Leilao.WinApp.sourcelink.json

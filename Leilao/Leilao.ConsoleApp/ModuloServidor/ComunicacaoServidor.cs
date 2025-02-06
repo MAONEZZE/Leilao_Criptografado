@@ -11,7 +11,7 @@ namespace Leilao.ConsoleApp.ModuloServidor
     public class ComunicacaoServidor
     {
         public static byte[] Tempo { get; private set; }
-        private const string ip = "127.0.0.1";
+        private const string ip = "10.151.57.122";
         private const int portaLeilao = 52000;
         private const int portaTempo = 55000;
         private readonly TcpListener leilao;

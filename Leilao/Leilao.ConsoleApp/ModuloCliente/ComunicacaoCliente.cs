@@ -12,7 +12,7 @@ namespace Leilao.ConsoleApp.ModuloCliente
     {
         public static ComunicacaoCliente comunicacaoCliente;
 
-        private const string ip = "127.0.0.1";
+        private const string ip = "10.151.57.122";
         private const string multicastIP = "224.0.0.1";
 
         private const int portaLeilao = 53000;

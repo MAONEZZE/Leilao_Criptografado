@@ -9,7 +9,7 @@ namespace Server_Leilao.WinApp.ModuloCliente
 {
     public class ComunicacaoCliente
     {
-        private const string ip = "127.0.0.1"; // ip para todos na rede poderem acessar
+        private const string ip = "10.151.57.122"; // ip para todos na rede poderem acessar
         private const int port = 51000; // Porta desejada
 
         private readonly TcpListener servidor;
@@ -151,7 +151,7 @@ namespace Server_Leilao.WinApp.ModuloCliente
                 Aes aes = Aes.Create(); //para criptografia simétrica
                 RSA rsa = RSA.Create(); //para criptografia assimétrica
                 var ms = new MemoryStream();
-                DadosLeilao dadosLeilao = new DadosLeilao("127.0.0.1", 53000, 54000, 56000);
+                DadosLeilao dadosLeilao = new DadosLeilao("10.151.57.122", 53000, 54000, 56000);
 
                 aes.Key = TelaPrincipal.ChaveSimetrica;
                 aes.IV = TelaPrincipal.Iv;

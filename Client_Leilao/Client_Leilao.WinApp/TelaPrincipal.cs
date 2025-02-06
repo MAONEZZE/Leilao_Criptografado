@@ -66,8 +66,8 @@ namespace Client_Leilao.WinApp
         private void ProcessoDeComunicacao()
         {
             string caminhoPrivateKey = @"C:\Users\ruan.souza\Documents\Meus_Programas\Leilao_Criptografado\Client_Leilao\Client_Leilao.WinApp\Chaves\privateKey.base64";
-            string ip = txb_ip.Text; // 127.0.0.1 
-            int port = int.Parse(txb_port.Text); // 51000
+            string ip = txb_ip.Text; 
+            int port = int.Parse(txb_port.Text); 
 
             try
             {

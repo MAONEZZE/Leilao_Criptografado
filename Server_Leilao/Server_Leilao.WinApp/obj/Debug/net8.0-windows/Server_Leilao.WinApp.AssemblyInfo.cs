@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Server_Leilao.WinApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9667f69b12f826f2661ff72eb7a50290f141f46c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Server_Leilao.WinApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Server_Leilao.WinApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

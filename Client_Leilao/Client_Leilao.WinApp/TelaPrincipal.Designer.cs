@@ -147,7 +147,7 @@
             txb_ip.Name = "txb_ip";
             txb_ip.Size = new Size(185, 23);
             txb_ip.TabIndex = 5;
-            txb_ip.Text = "127.0.0.1";
+            txb_ip.Text = "10.151.57.122";
             // 
             // label1
             // 
